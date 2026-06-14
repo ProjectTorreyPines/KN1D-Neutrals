@@ -1,0 +1,1 @@
+{"collisions":{"H2_H2_EL":true,"H2_H_EL":true,"H2_P_CX":true,"H2_P_EL":true,"H_H_EL":true,"H_P_CX":true,"H_P_EL":true,"SIMPLE_CX":true},"kinetic_h":{"alpha_cx_test":false,"ci_test":false,"extra_energy_bins_eV":[],"grid_fctr":0.3,"ion_rate":"janev","mesh_size":6},"kinetic_h2":{"alpha_cx_test":false,"ci_test":false,"extra_energy_bins_eV":[],"grid_fctr":0.3,"mesh_size":5}}

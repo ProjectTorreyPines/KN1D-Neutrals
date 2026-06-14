@@ -1,0 +1,24 @@
+name = "KN1DJl"
+uuid = "7fd5fda0-7b43-42f4-8313-044b2a2fa782"
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+NPZ = "15e1cf62-19b3-5cfa-8e77-841668bca605"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+BenchmarkTools = "1.8.0"
+Dierckx = "0.5.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
