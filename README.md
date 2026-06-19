@@ -75,5 +75,5 @@ Each flag enables or disables a specific collision channel:
 ## kn1d_lite
 
 `kn1d_lite` is a simplified version of `kn1d` that is designed to be run on closed field lines (inside the separatrix).
-It ignores molecules, and simply calculates the atomic neutral density for specified plasma profiles on the closed field lines. See [docs/kn1d_lite.md](docs/kn1d_lite.md) for a full description and instructions on how to run.
+It ignores molecules, and simply calculates the atomic neutral density for specified plasma profiles on the closed field lines. See [docs/kn1d_lite.md](docs/kn1d_lite.md) for a full description and instructions on how to run. Given the limited information on edge conditions available in the current version of FUSE kn1d_lite is what is used there.
 
