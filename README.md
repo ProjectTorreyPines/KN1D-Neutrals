@@ -1,7 +1,9 @@
+##KN1DJL vs KN1DPY
+This version of KN1D is maintained separately than the python version found here (https://github.com/W-M-plasma-group/KN1DPy). A set of common test cases are being developed to ensure general parity between the two.
+
 ## KN1D
 
-KN1D is a 1D-space, 2D-velocity kinetic neutrals code developed by B. LaBombard (MIT PSFC). KN1Djl is a Julia translation of the python version located here https://github.com/W-M-plasma-group/KN1DPy.
-
+KN1D is a 1D-space, 2D-velocity kinetic neutrals code developed by B. LaBombard (MIT PSFC). KN1Djl is a Julia translation of the python version.
 This translation was written and maintained by Sean Lyons at UCSD (splyons@ucsd.edu) with help from Jamie Dunsmore at MIT (jduns@mit.edu).
 
 A comprehensive description of the algorithm can be found in this PSFC report (LaBombard, 2001).
