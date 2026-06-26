@@ -1,4 +1,4 @@
-##KN1DJL vs KN1DPY
+## KN1DJL vs KN1DPY
 This version of KN1D is maintained separately than the python version found here (https://github.com/W-M-plasma-group/KN1DPy). A set of common test cases are being developed to ensure general parity between the two.
 
 ## KN1D
